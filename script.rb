@@ -1,4 +1,4 @@
-"#upcase"
+# #upcase
 "hello".upcase
 
 # #downcase
